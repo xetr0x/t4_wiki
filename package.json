@@ -1,0 +1,19 @@
+{
+  "name": "t4",
+  "version": "1.0.0",
+  "description": "Its t4 wiki",
+  "main": "Server.js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xetr0x/t4_wiki.git"
+  },
+  "author": "kevin w",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xetr0x/t4_wiki/issues"
+  },
+  "homepage": "https://github.com/xetr0x/t4_wiki#readme"
+}
